@@ -1,12 +1,12 @@
 <?php
 
-$to = "victima@gmail.com"; //Correo electrónico de la víctima a quien desea enviar un correo electrónico
+$to = "hector3@gmail.com"; //Correo electrónico de la víctima a quien desea enviar un correo electrónico
 
 $subject = "asunto email";
 
 $message = "mensaje";
 
-$from = "correoplagiado@gmail.com"; // Correo electrónico de la víctima de quien desea enviar un correo electrónico
+$from = "hector8juncal@gmail.com"; // Correo electrónico de la víctima de quien desea enviar un correo electrónico
 
 $headers = "From:" . $from;
 
